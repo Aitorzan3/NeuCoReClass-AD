@@ -4,7 +4,7 @@ if __name__=="__main__":
     hyperparameters = {
         "dataset": "Epilepsy",
         "normality": 'sawing',
-        "reverse": True,
+        "reverse": False,
         "n_transforms":12,
         "measure":"cosine",
         "temperature":0.1,
