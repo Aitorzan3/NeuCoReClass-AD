@@ -17,4 +17,4 @@ Please cite our paper if you use **NeuCoReClass-AD** in your work:
 ```
 ## License
 
-NeuCoReClass AD is made available open-sourced under the AGPL-3.0 License. For more details, see the LICENSE file in the repository.
+NeuCoReClass AD is made available open-source under the MIT License. For more details, see the LICENSE file in the repository.
